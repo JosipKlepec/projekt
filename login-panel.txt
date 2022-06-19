@@ -1,0 +1,11 @@
+login
+
+
+za administratora
+username:admin
+password:admin
+
+
+za korisnika
+username:user
+password:user
